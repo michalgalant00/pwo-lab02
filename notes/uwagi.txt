@@ -1,0 +1,3 @@
+Notatka 1
+W zadaniu 1 użyłem typu BigDecimal, ponieważ ciąg Fibonacciego
+szybko przekracza typ long.
